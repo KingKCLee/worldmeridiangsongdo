@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://viphome.kr/</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- ══ 주요 이미지 ══ -->
+
+    <!-- SNS 공유 대표 이미지 -->
+    <image:image>
+      <image:loc>https://viphome.kr/sns-image.webp</image:loc>
+      <image:title>송도 월드메르디앙 대표 이미지</image:title>
+      <image:caption>인천 송도국제도시 1공구 월드메르디앙 아파트 외관 전경</image:caption>
+    </image:image>
+
+    <!-- 구글 검색 정사각형 썸네일 -->
+    <image:image>
+      <image:loc>https://viphome.kr/google-thumb.webp</image:loc>
+      <image:title>송도 월드메르디앙 구글 검색 썸네일</image:title>
+      <image:caption>송도 월드메르디앙 6억대 특별분양 정사각형 썸네일</image:caption>
+    </image:image>
+
+    <!-- 로고 -->
+    <image:image>
+      <image:loc>https://viphome.kr/logo2.webp</image:loc>
+      <image:title>송도 월드메르디앙 로고</image:title>
+    </image:image>
+
+    <!-- 메인 비주얼 슬라이드 1 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_main_images_309_0_1771463559.webp</image:loc>
+      <image:title>송도 월드메르디앙 아파트 외관 전경</image:title>
+      <image:caption>인천 송도국제도시 1공구 신축 아파트 외관</image:caption>
+    </image:image>
+
+    <!-- 메인 비주얼 슬라이드 2 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_main_images_309_1_1771463559.webp</image:loc>
+      <image:title>송도 월드메르디앙 단지 조감도</image:title>
+      <image:caption>4개동 128세대 남향 배치 단지 조감도</image:caption>
+    </image:image>
+
+    <!-- 메인 타이틀 이미지 -->
+    <image:image>
+      <image:loc>https://viphome.kr/1551-3755_1772588926_9630.webp</image:loc>
+      <image:title>송도 월드메르디앙 6억대 특별분양 안내</image:title>
+    </image:image>
+
+    <!-- 즉시입주 펜듈럼 뱃지 -->
+    <image:image>
+      <image:loc>https://viphome.kr/resize.webp</image:loc>
+      <image:title>즉시입주 가능 뱃지</image:title>
+    </image:image>
+
+    <!-- 6가지 프리미엄 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_7_1771463629.webp</image:loc>
+      <image:title>송도 월드메르디앙 6가지 프리미엄</image:title>
+      <image:caption>명문학군, 특급입지, 쾌속교통, 명품생활, 희소가치, 힐링생활 프리미엄</image:caption>
+    </image:image>
+
+    <!-- 단지 배치도 및 사업 개요 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_1_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 단지 배치도 및 사업 개요</image:title>
+      <image:caption>지하2층~지상10층 4개동 128세대 사업개요 인포그래픽</image:caption>
+    </image:image>
+
+    <!-- 입지 환경 1 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_2_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 입지 환경</image:title>
+      <image:caption>인천대입구역 도보 15분, GTX-B 수혜 입지 안내도</image:caption>
+    </image:image>
+
+    <!-- 입지 환경 2 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_6_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 단지 입지</image:title>
+      <image:caption>송도국제도시 1공구 중심부 위치 안내</image:caption>
+    </image:image>
+
+    <!-- 교육 환경 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_3_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 교육 환경</image:title>
+      <image:caption>채드윅 국제학교 도보권, 1공구 학원가 인접 교육환경 안내도</image:caption>
+    </image:image>
+
+    <!-- 생활 인프라 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_4_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 생활 인프라</image:title>
+      <image:caption>센트럴파크, 롯데마트, 코스트코 등 완성된 생활권</image:caption>
+    </image:image>
+
+    <!-- 교통 인프라 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_5_1771463628.webp</image:loc>
+      <image:title>송도 월드메르디앙 교통 인프라</image:title>
+      <image:caption>GTX-B, 송도트램, 인천3호선, 제2외곽순환도로 교통 안내도</image:caption>
+    </image:image>
+
+    <!-- 단지 배치도 (상세) -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_8_1771463629.webp</image:loc>
+      <image:title>송도 월드메르디앙 단지 배치도 상세</image:title>
+      <image:caption>1001동~1004동 4개동 남향 배치 상세도</image:caption>
+    </image:image>
+
+    <!-- 78㎡ 평면도 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_9_1771463629.webp</image:loc>
+      <image:title>송도 월드메르디앙 78㎡ 평면도</image:title>
+      <image:caption>전용 78㎡(30평대) 남향 4베이 평면도</image:caption>
+    </image:image>
+
+    <!-- 83㎡ 평면도 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_10_1771463629.webp</image:loc>
+      <image:title>송도 월드메르디앙 83㎡ 평면도</image:title>
+      <image:caption>전용 83㎡(31평대) 남향 4베이 평면도</image:caption>
+    </image:image>
+
+    <!-- 84㎡ 평면도 -->
+    <image:image>
+      <image:loc>https://viphome.kr/landing_page_images_309_11_1771463629.webp</image:loc>
+      <image:title>송도 월드메르디앙 84㎡ 평면도</image:title>
+      <image:caption>전용 84㎡(32평대) 남향 4베이 평면도</image:caption>
+    </image:image>
+
+    <!-- 팝업 이미지 -->
+    <image:image>
+      <image:loc>https://viphome.kr/popup4.webp</image:loc>
+      <image:title>송도 월드메르디앙 특별분양 안내 팝업</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://viphome.kr/popup-wine.webp</image:loc>
+      <image:title>사전예약 방문고객 한정 프리미엄 와인 증정 이벤트</image:title>
+    </image:image>
+
+    <!-- ══ 비디오 ══ -->
+
+    <!-- 유튜브 홍보 영상 -->
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/ZQXgPeGzwW4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>송도 월드메르디앙 홍보 영상</video:title>
+      <video:description>인천 송도국제도시 1공구 월드메르디앙 아파트 홍보 영상. 전용 78~84㎡ 128세대, 6억대 즉시입주 특별분양 안내.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ZQXgPeGzwW4</video:player_loc>
+      <video:duration>594</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+  </url>
+
+</urlset>
+

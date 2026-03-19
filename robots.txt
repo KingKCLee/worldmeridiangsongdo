@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /hidden_iframe
+
+Sitemap: https://viphome.kr/sitemap.xml
